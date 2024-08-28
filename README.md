@@ -1,0 +1,1 @@
+This is my weather app, for getting all the latest news about the weather in your area.
